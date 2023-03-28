@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Ricky Segura
-- 📫 rickysegura2001@gmail.com
+Web designer based out of Los Angeles, California. Let's code!
+
+📧 devrickysegura@gmail.com
