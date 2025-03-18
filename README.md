@@ -1,1 +1,1 @@
-[Email](mailto:rickysegura@pm.me) | [Portfolio](https://rickysegura.com/)
+[Portfolio](https://rickysegura.com/) | [Email](mailto:rickysegura@pm.me)
