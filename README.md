@@ -1,3 +1,3 @@
 # Quick Actions
 
-[Portfolio](https://rickysegura.com/) | [Email](mailto:rickysegura@pm.me)
+[View Portfolio](https://rickysegura.com/) | [Contact](mailto:rickysegura@pm.me)
