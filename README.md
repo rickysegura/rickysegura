@@ -1,3 +1,5 @@
 # Quick Actions
 
-[View Portfolio](https://rickysegura.com/) | [Contact](mailto:rickysegura@pm.me)
+[Contact](mailto:rickysegura@pm.me)
+
+🛰️ Somewhere in the matrix.
