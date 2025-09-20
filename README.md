@@ -1,3 +1,3 @@
 # Quick Actions
 
-[GitHub Page](https://rickysegura.github.io/) | [Contact](https://www.rickysegura.dev/contact)
+[Portfolio](https://rickysegura.dev/) | [GitHub Page](https://rickysegura.github.io/) | [Contact](https://www.rickysegura.dev/contact)
