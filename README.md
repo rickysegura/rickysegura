@@ -1,3 +1,3 @@
 # Quick Links
 
-[Portfolio](https://rickysegura.dev/) | [GitHub Page](https://rickysegura.github.io/) | [Contact](https://www.rickysegura.dev/contact)
+[My Website](https://rickysegura.dev/) | [My GitHub Page](https://rickysegura.github.io/) | [Contact Me](https://www.rickysegura.dev/contact)
