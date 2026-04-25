@@ -1,3 +1,4 @@
-# Quick Links
+# Misc.
 
-- [My Portfolio](https://rickysegura.dev/)
+- [Portfolio](https://rickysegura.com)
+- [Software studio](https://neospaceswebdesign.com)
