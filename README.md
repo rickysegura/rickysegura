@@ -1,4 +1,2 @@
-# Misc.
-
-- [Portfolio](https://rickysegura.com)
-- [Software studio](https://neospaceswebdesign.com)
+# Bonjour
+I'm Ricky Segura, a developer based in Los Angeles, CA.
